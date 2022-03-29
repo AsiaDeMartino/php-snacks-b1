@@ -8,28 +8,36 @@ $post = [
                             [
                                 'titolo' => 'questo è un titolo1', 
                                 'testo' => 'questo è un testo1',
+                                'autore' => 'Antonio'
                             ],
                             [
                                 'titolo' => 'questo è un titolo2', 
                                 'testo' => 'questo è un testo2',
+                                'autore' => 'Giovanni'
+
                             ],
                             [
                                 'titolo' => 'questo è un titolo3', 
                                 'testo' => 'questo è un testo3',
+                                'autore' => 'Marco'
+
                             ],
                         ],
         '25-08-2016' => [
                             [
                                 'titolo' => 'questo è un titolo1', 
                                 'testo' => 'questo è un testo1',
+                                'autore' => 'Antonio'
                             ],
                             [
                                 'titolo' => 'questo è un titolo2', 
                                 'testo' => 'questo è un testo2',
+                                'autore' => 'Maria'
                             ],
                             [
                                 'titolo' => 'questo è un titolo3', 
                                 'testo' => 'questo è un testo3',
+                                'autore' => 'Giuseppe'
                             ],
                         ],
 ];
